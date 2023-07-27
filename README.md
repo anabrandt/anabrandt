@@ -5,6 +5,8 @@
 - 📫 How to reach me: anactavaresbrand@gmail.com
 - 😄 Pronouns: she/her
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anabrandt&count_private=true&show_icons=true&theme=radical" /> </p>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
