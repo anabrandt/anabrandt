@@ -6,8 +6,8 @@
 - 😄 Pronouns: she/her
 
 <div align="center">
-   <img width="45.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anabrandt&show_icons=true&theme=synthwave&PAT_1">
-   <img width="49.0%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabrandt&hide_progress=true&theme=synthwave&PAT_1">
+   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anabrandt&show_icons=true&theme=synthwave&PAT_1">
+   <img width="40.0%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabrandt&hide_progress=true&theme=synthwave&PAT_1">
 </div>
 
 
