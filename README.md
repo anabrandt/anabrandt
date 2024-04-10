@@ -28,7 +28,7 @@
 </div>
 
 <div>
-    ![Snake animation](https://github.com/anabrandt-pixel/anabrandt-pixel/blob/output/github-contribution-grid-snake.svg)
+ ![snake animation](https://github.com/anabrandt/anabrandt/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 
