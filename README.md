@@ -1,7 +1,7 @@
 ### Hi, i'm Ana Carolina 👋🏿
 
 - 🔭 I’m currently student on ufabc
-- 🌱 I’m currently learning c#, javascript, python, sql and more...
+- 🌱 I’m currently learning c#, java, python, sql and more...
 - 📫 How to reach me: anactavaresbrand@gmail.com
 - 😄 Pronouns: she/her
 
