@@ -1,7 +1,7 @@
 ### Hi, i'm Ana Carolina 👋🏿
 
 - 🔭 I’m currently student on ufabc
-- 🌱 I’m currently learning c#, java, python, sql and more...
+- 🌱 I’m currently learning c#, java, javascript, sql and more...
 - 📫 How to reach me: anactavaresbrand@gmail.com
 - 😄 Pronouns: she/her
 
@@ -22,7 +22,5 @@
 ## Follow my journey! 📫
 
 <div> 
-  <a href="https://instagram.com/anacarolinatvr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/anacarolinatvr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anactavaresbrand" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
