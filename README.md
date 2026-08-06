@@ -30,14 +30,4 @@
 
 ---
 
-### 📌 Projetos em destaque
-
-**[estabilidade-acido-salicilico](#)**
-Análise da estabilidade do ácido salicílico em solução aquosa sob radiação UV, com modelagem e visualização de dados em Python. `Python` `pandas` `matplotlib`
-
-**[tridient-natural-selection](#)** *(em construção)*
-Estudo de caso sobre o TrIdent, ferramenta de transfer learning para detecção de seleção natural (Arnab et al., 2025) — aplicado ao seminário de Evolução Molecular na UFABC. `Python` `Machine Learning` `Bioinformática`
-
----
-
 <p align="center"><i>Follow my journey! 🧬</i></p>
