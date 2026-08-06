@@ -10,8 +10,8 @@
 
 ### 🚀 Sobre mim
 
-- 🔎 Trabalho como **Data Analyst no Itaú Unibanco**, no time de Share of Risk (Inteligência de Mercado & Analytics), reprocessando bases cadastrais em **Amazon Athena** e documentando fluxos de dados.
-- 🎓 Estudante de **Ciência e Tecnologia (BC&T)** na UFABC, pós bi bacharelado em **Neurociência**.
+- 🔎 Trabalho como **Data Analyst no Itaú Unibanco**, no time de Share of Risk (Inteligência de Mercado & Analytics)
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas pela (FIAP). Estudante de **Ciência e Tecnologia (BC&T)** na UFABC, pós bi bacharelado em **Neurociência**
 - 🐍 No dia a dia uso **Python, SQL, Athena/AWS e pandas**; venho me aprofundando em modelagem estatística e ML.
 - 📫 Como falar comigo: [anactavaresbrand@gmail.com](mailto:anactavaresbrand@gmail.com) · [LinkedIn](#)
 
